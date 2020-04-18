@@ -161,6 +161,37 @@ The [sampleModels.py](sampleModels.py) file is an example of a python ORM of a d
 ```
 Put screenshots of all your tables.
 ```
+### Blooming Time
+
+
+![image](https://github.com/2020-Spring-CSC-330/pm-05-creating-your-database-application-meadowhouse/blob/master/Tables%20Screenshots/Blooming_Time.png)
+
+### Location
+
+
+![image](https://github.com/2020-Spring-CSC-330/pm-05-creating-your-database-application-meadowhouse/blob/master/Tables%20Screenshots/Location.png)
+
+
+### MAP
+
+
+![image](https://github.com/2020-Spring-CSC-330/pm-05-creating-your-database-application-meadowhouse/blob/master/Tables%20Screenshots/MAP.png)
+
+### Plant
+
+
+![image](https://github.com/2020-Spring-CSC-330/pm-05-creating-your-database-application-meadowhouse/blob/master/Tables%20Screenshots/Plant.png)
+
+### Plant Blooms
+
+
+![image](https://github.com/2020-Spring-CSC-330/pm-05-creating-your-database-application-meadowhouse/blob/master/Tables%20Screenshots/Plant_Blooms.png)
+
+
+### Rarity
+
+
+![image](https://github.com/2020-Spring-CSC-330/pm-05-creating-your-database-application-meadowhouse/blob/master/Tables%20Screenshots/Rarity.png)
 
 
 ### Step 1. Create Models.py file
