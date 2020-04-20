@@ -96,9 +96,6 @@ SELECT  * FROM Location WHERE Quadrant = VARIABLE
 /*This query searches the database for entries that have certain words in notes.*/
 SELECT * FROM Plant WHERE notes LIKE " "
 
-                        Homepage
-/*This query shows all of the items in plant*/                        
-SELECT * FROM Plant 
 ...
 ```
 
