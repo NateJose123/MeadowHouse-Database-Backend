@@ -18,7 +18,8 @@ By April 23, push to this repository:
 1. SQL Queries
 2. Screenshots of tables from your database structure (from myPhPAdmin)
 3. A models.py file with your python classes and query methods
-4. A link to your meeting document with notes from all team and client meetings since March
+4. A link to your meeting document with notes from all team and client meetings since March:
+https://docs.google.com/document/d/1GZzaqGmLqgYmiNeR2M6eHRb0Tui1Umbzqe8B8iBQ1Lc/edit?usp=sharing
 
 ## Part 1 - Develop SQL Queries
 
